@@ -1,0 +1,16 @@
+# Inter-Planetary Link Ship License
+
+**Base License:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)  
+**Additional IPLS Operator-Control & Ethical Use Addendum** (binding on all users)
+
+## Operator-Control & Ethical Use Addendum
+Any commercial use, derivative work, large-scale implementation, or fork of this specification by any entity (human, corporate, or post-biological) must:
+1. Retain full attribution to Inter-Planetary Link Ship Limited and the original living document at ipls.space
+2. Preserve the six Core Principles in all derivatives
+3. Offer reciprocal contribution rights back to the canonical IPLS repository[](https://github.com/IPLS-org/ipls-spec)
+4. Obtain explicit written agreement from Inter-Planetary Link Ship Limited for any deviation from the Ethical Frameworks (Section 5.1)
+5. Maintain operator (human or post-biological) veto rights in all implementations
+
+Failure to comply voids the license for that use.
+
+Full CC-BY-SA-4.0 text: https://creativecommons.org/licenses/by-sa/4.0/
