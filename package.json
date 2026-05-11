@@ -1,0 +1,24 @@
+{
+  "name": "ipls-spec",
+  "version": "1.0.0",
+  "description": "**Legal entity:** Inter-Planetary Link Ship Limited (UK)  \r **Founded:** 01 May 2026 • Guildford, Surrey, UK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IPLS-org/ipls-spec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IPLS-org/ipls-spec/issues"
+  },
+  "homepage": "https://github.com/IPLS-org/ipls-spec#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}

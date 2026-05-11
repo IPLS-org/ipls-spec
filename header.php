@@ -11,7 +11,7 @@
     <meta name="description" content="<?php echo $meta_description ?? ''; ?>">
     <meta name="keywords" content="<?php echo $meta_keywords ?? ''; ?>">
     <title><?php echo $page_title ?? 'Inter-Planetary Link Ship'; ?></title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/assets/css/output.css">
     <style>
         .hero-bg { 
   background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.9)), 
