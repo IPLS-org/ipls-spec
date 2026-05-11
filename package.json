@@ -20,5 +20,8 @@
   "homepage": "https://github.com/IPLS-org/ipls-spec#readme",
   "devDependencies": {
     "tailwindcss": "^3.4.19"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001792"
   }
 }

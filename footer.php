@@ -1,5 +1,5 @@
 <!-- Footer -->
-
+</main>
 <!-- === AUTO REQUIREMENTS RENDERER (centralised – zero per-page edits) === -->
 <?php
 include 'requirements-db.php';

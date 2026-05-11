@@ -132,7 +132,6 @@ include 'header.php';
     </div>
 
     <script>
-        tailwind.config = { content: [] };
         function acceptCookies() { localStorage.setItem('cookiesAccepted', 'true'); document.getElementById('cookieBanner').classList.add('hidden'); }
         function closeCookieBanner() { document.getElementById('cookieBanner').classList.add('hidden'); }
         window.onload = function() {

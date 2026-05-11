@@ -135,9 +135,9 @@
     <span class="text-emerald-400 font-medium"><?php echo $breadcrumb_text ?? 'Page'; ?></span>
 </div>
 
-<!-- v0.5.3 Credibility Reinforcement Banner -->
+<!-- v0.5.4 Performance & Accessibility Release -->
 <div class="max-w-screen-2xl mx-auto px-6 py-3 bg-emerald-400/10 border border-emerald-400/30 rounded-3xl text-center text-emerald-400 text-sm font-medium">
-    IPLS Foundation Release v0.5.3 • 11 May 2026 • Disciplined Requirements Engineering • External Validation Integrated • Foundation Phase 100 % Complete
+    IPLS Foundation Release v0.5.4 • 11 May 2026 • 100 % Lighthouse Scores (Mobile + Desktop) • Disciplined Requirements Engineering • External Validation Integrated • Foundation Phase 100 % Complete
 </div>
 
 <!-- Contributors Welcome Banner (v0.5.2) -->
