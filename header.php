@@ -50,6 +50,13 @@
                 <a href="capstone.php" class="block py-1 hover:text-emerald-400">Capstone</a>
             </div>
 
+            <!-- PLANETARY RESILIENCE – NEW SECTION 2.0 -->
+            <div>
+                <div class="text-emerald-400 text-xs font-medium mb-2">PLANETARY RESILIENCE</div>
+                <a href="planetary-resilience-magnetosphere-protection.php" class="block py-1 hover:text-emerald-400">2.0 • Planetary Resilience &amp; Magnetosphere Protection</a>
+                <a href="planetary-resilience-magnetosphere-protection.php" class="block py-1 pl-4 hover:text-emerald-400">• PROJECT SHIELD L1 – Earth-L1 Artificial Magnetosphere</a>
+            </div>
+
             <!-- ASTEROID MINING SEQUENCE -->
             <div>
                 <div class="text-emerald-400 text-xs font-medium mb-2">ASTEROID MINING SEQUENCE</div>

@@ -44,6 +44,13 @@ include 'header.php';
                     <p class="text-white/70">The high-level vision and complete roadmap — the cover letter for the entire specification</p>
                 </a>
 
+                <!-- NEW SECTION 2.0 -->
+                <a href="planetary-resilience-magnetosphere-protection.php" class="block bg-black border border-emerald-400 rounded-3xl p-8 transition">
+                    <div class="text-emerald-400 text-sm font-medium">Section 2.0</div>
+                    <h3 class="text-2xl font-semibold mt-2 mb-3">Planetary Resilience &amp; Magnetosphere Protection</h3>
+                    <p class="text-white/70">PROJECT SHIELD L1 – Earth-L1 Artificial Magnetosphere via High-Temperature Superconducting Systems (chronological precursor to asteroid mining)</p>
+                </a>
+
                 <!-- All your existing cards (preserved in order) -->
                 <a href="mining.php" class="block bg-black border border-emerald-400 rounded-3xl p-8 transition relative">
                     <div class="text-emerald-400 text-sm font-medium">Section 3.1 • Minimum Credible Demonstrator</div>
