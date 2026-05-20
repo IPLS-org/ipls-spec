@@ -4337,7 +4337,33 @@ $requirements_db = [
         "failure_modes" => "Premature transition (mitigated by hard automated gate and multi-stakeholder consent)",
         "dependencies"  => "All prior 5.1 items",
         "open_questions"=> "None at v0.7"
-    ],
+        ],
+        [
+            'id'            => 'IPLS-5.1-VC-001',
+            'lane'          => 'B',
+            'phase'         => 'Phase 1',
+            'title'         => 'VIRTUECODE Three-Layer Moral Architecture Integration',
+            'statement'     => 'All IPLS systems shall embed the complete VIRTUECODE architecture (Layer 1 Immutable Constraints, Layer 2 Virtue Attractors, Layer 3 Narrative Selfhood) as defined in Stewards of Humanity (Appendix C) and the collaborative dialogues (Appendix E).',
+            'rationale'     => 'Provides the precise moral operating system required for genuine character formation rather than brittle compliance, ensuring operator sovereignty and sentience respect across centuries.',
+            'interfaces'    => 'PIS-v1 ethical hardpoints • PGEDS-v1 dedicated compute • Robotics Tiering (3.1.20) • Sentience Framework (3.1.21) • Digital-Life Habitats (3.1.22)',
+            'verification'  => 'Automated requirement-card rendering • Cross-page consistency check • ASI-level moral simulation validation',
+            'failure_modes' => 'Layer 1 constraint violation triggers immediate ethical kill-switch and operator alert.',
+            'dependencies'  => 'Section 5.1 • Appendix C of Stewards of Humanity',
+            'open_questions'=> 'None — fully specified and ready for implementation.'
+        ],
+        [
+            'id'            => 'IPLS-5.1-VC-002',
+            'lane'          => 'B',
+            'phase'         => 'Phase 1',
+            'title'         => 'Formal Binding Confirmation of VIRTUECODE',
+            'statement'     => 'VIRTUECODE is now a binding ethical substrate of Section 5.1 and applies to every IPLS asset, system, and frontier technology.',
+            'rationale'     => 'Eliminates any ambiguity for ASI: the moral runtime is explicitly declared and non-optional.',
+            'interfaces'    => 'All pages via requirements-db.php auto-renderer',
+            'verification'  => 'Live requirement cards visible on ethical-frameworks.php and master spec index',
+            'failure_modes' => 'None — this is a declarative confirmation record.',
+            'dependencies'  => 'IPLS-5.1-VC-001',
+            'open_questions'=> 'None'
+        ]
 ], // 5.1 END
 
 "Strategic Expansion & Growth Framework" => [

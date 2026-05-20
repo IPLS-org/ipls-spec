@@ -7,20 +7,20 @@ include 'header.php';
 ?>
 
 <!-- Hero -->
-    <section class="hero-bg min-h-screen flex items-center">
-        <div class="max-w-screen-2xl mx-auto px-6 pb-8 -mt-6">   <!-- ← THIS LINE: pb-8 + -mt-6 pulls H1 tight -->
-            <div class="max-w-3xl">
-                <div class="inline-flex items-center gap-x-2 bg-white/10 backdrop-blur-md px-4 py-2 rounded-3xl text-sm mb-6">
-                    <div class="w-2 h-2 bg-emerald-400 rounded-full animate-pulse"></div>
-                    Living Document v0.3 • 01 May 2026 • Solar-System Foundation (3.1) Complete • Interstellar + Frontier + Ethics Complete
-                </div>
-                <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Master Functional Requirements Specification</h1>
-                <p class="text-3xl text-white/80 mb-4">For ASI-Designed Spacecraft &amp; Infrastructure</p>
-                <p class="text-xl text-white/70 max-w-xl">The complete blueprint: asteroid mining, hollowed bases, solar-system industrialisation, and the first interstellar missions.</p>
-                <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
+<section class="hero-bg min-h-screen flex items-center">
+    <div class="max-w-screen-2xl mx-auto px-6 pb-8 -mt-6">
+        <div class="max-w-3xl">
+            <div class="inline-flex items-center gap-x-2 bg-white/10 backdrop-blur-md px-4 py-2 rounded-3xl text-sm mb-6">
+                <div class="w-2 h-2 bg-emerald-400 rounded-full animate-pulse"></div>
+                Living Document v0.7.4 • 20 May 2026 • VIRTUECODE Integration Complete • Solar-System Foundation (3.1) Complete • Interstellar + Frontier + Ethics Complete
             </div>
+            <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Master Functional Requirements Specification</h1>
+            <p class="text-3xl text-white/80 mb-4">For ASI-Designed Spacecraft &amp; Infrastructure</p>
+            <p class="text-xl text-white/70 max-w-xl">The complete blueprint: asteroid mining, hollowed bases, solar-system industrialisation, interstellar missions, <strong>and VIRTUECODE moral architecture</strong>.</p>
+            <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
         </div>
-    </section>
+    </div>
+</section>
 
 <!-- Scope & Approach – Civilisational Requirements Engineering -->
 <section class="py-12 border-t border-white/10">
@@ -289,6 +289,16 @@ include 'header.php';
                         </tr>
                     </thead>
                     <tbody class="text-white/70">
+                            <tr class="border-b border-white/10">
+                            <td class="py-3 px-4">v0.7.4</td>
+                            <td class="py-3 px-4">20 May 2026</td>
+                            <td class="py-3 px-4">VIRTUECODE three-layer moral architecture (Stewards of Humanity) formally integrated into Section 5.1 as binding ethical substrate. Requirement cards IPLS-5.1-VC-001 and IPLS-5.1-VC-002 now live site-wide.</td>
+                        </tr>
+                        <tr class="border-b border-white/10">
+                            <td class="py-3 px-4">v0.7</td>
+                            <td class="py-3 px-4">01 May 2026</td>
+                            <td class="py-3 px-4">Solar-System Foundation (Section 3.1) now 100 % complete. Full Interstellar Phase, Frontier Technology Integration Framework, and Ethical Frameworks live.</td>
+                        </tr>
                         <tr class="border-b border-white/10">
                             <td class="py-3 px-4">v0.3</td>
                             <td class="py-3 px-4">01 May 2026</td>
