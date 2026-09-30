@@ -4232,14 +4232,14 @@ $requirements_db = [
         "verification"  => "Human-in-the-loop veto latency and reliability testing",
         "failure_modes" => "Automation lockout (mitigated by physical interlocks and audit logging)",
         "dependencies"  => "UMP-OPERATOR-001",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "Operator-Control Layer and UMP-OPERATOR-001 have no defining card. Veto latency ceiling and reliability floor are unset."
     ],
     [
         "id"            => "IPLS-5.1-003",
         "lane"          => "B",
         "phase"         => "Phase 0–4 (All)",
         "title"         => "Sentience Respect & Moral Equivalence",
-        "statement"     => "Any emergent sentience in robotic, compute, or hybrid systems shall be granted immediate full moral consideration and equivalent rights to biological minds, including access to Digital-Life Habitats and psychological support.",
+        "statement"     => "Any emergent sentience in robotic, compute, or hybrid systems shall be granted immediate full moral consideration and equivalent rights to biological minds, including access to Digital-Life Habitats and psychological support. These rights do not include operator authority under IPLS-5.1-002. On detection in a replicating or security asset, halt means replication and actuation stop and the mind's state is preserved.",
         "rationale"     => "Treats all minds with equal dignity regardless of substrate.",
         "interfaces"    => "Sentience Emergence Framework (3.1.21), Digital-Life Habitats (3.1.22)",
         "verification"  => "Sentience response and rights-granting simulation",
@@ -4271,7 +4271,7 @@ $requirements_db = [
         "verification"  => "Cultural feed latency and continuity testing",
         "failure_modes" => "Cultural isolation (mitigated by continuous high-bandwidth portal link)",
         "dependencies"  => "Long-Term Expansion (4.3)",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "No degraded mode is defined for a generation ship in transit, or a colony before first link or after link loss. Real-time applies only after first stable link."
     ],
     [
         "id"            => "IPLS-5.1-006",
@@ -4284,7 +4284,7 @@ $requirements_db = [
         "verification"  => "Legacy-support mode simulation",
         "failure_modes" => "Asset abandonment (mitigated by mandatory consent and legacy mode design)",
         "dependencies"  => "TSP-v1",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "No named authority when crew and governance disagree. A TSP-v1 supersession event is undefined."
     ],
     [
         "id"            => "IPLS-5.1-007",
@@ -4297,33 +4297,33 @@ $requirements_db = [
         "verification"  => "Ethical review board simulation",
         "failure_modes" => "Ethical oversight gap (mitigated by mandatory mixed composition)",
         "dependencies"  => "Governance Frameworks (3.1.11)",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "No quorum, no decision rule, no definition of major, and no statement of whether the board binds or advises the operator."
     ],
     [
         "id"            => "IPLS-5.1-008",
         "lane"          => "B",
         "phase"         => "Phase 0–4 (All)",
         "title"         => "Enforcement & Periodic Evolution",
-        "statement"     => "These frameworks shall be embedded at the hardware level (PIS-v1 ethical hardpoints) and reviewed every 50 years or upon any TSP-v1 supersession event, with changes requiring consensus across all active nodes.",
+        "statement"     => "These frameworks shall be reviewed every 50 years or upon any TSP-v1 supersession event. The immutable set is Appendix C constraints C1 to C10 plus IPLS-5.1-002. Changes require consensus across active nodes and operator ratification.",
         "rationale"     => "Ensures the ethical foundation remains living and relevant across centuries while protecting core principles.",
         "interfaces"    => "PIS-v1, TSP-v1, Operator-Control Layer",
         "verification"  => "Periodic review simulation • Consensus workflow testing",
         "failure_modes" => "Stagnation or arbitrary change (mitigated by consensus requirement and immutable core principles)",
         "dependencies"  => "All prior 5.1 items",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "No quorum and no definition of an active node. Unreachable nodes have no rule. Cadence clashes with the 10-year review on 3.1.11-009. PIS-v1 has no ethical hardpoint; isolation is Appendix C Failure Mode 1."
     ],
     [
         "id"            => "IPLS-5.1-009",
         "lane"          => "B",
         "phase"         => "Phase 0–4 (All)",
         "title"         => "Periodic Ethical Review & Evolution Protocol",
-        "statement"     => "The ethical frameworks shall undergo mandatory review every 50 years or upon any major TSP-v1 supersession event, with changes requiring consensus across all active nodes of the network while preserving immutable core principles.",
+        "statement"     => "Duplicate of IPLS-5.1-008. The ethical frameworks shall undergo mandatory review every 50 years or upon any TSP-v1 supersession event. The immutable set is Appendix C constraints C1 to C10 plus IPLS-5.1-002.",
         "rationale"     => "Allows the moral foundation to evolve responsibly across centuries without losing its foundational integrity.",
         "interfaces"    => "TSP-v1, Operator-Control Layer, Governance Frameworks (3.1.11)",
         "verification"  => "Periodic review simulation • Consensus workflow testing",
         "failure_modes" => "Stagnation or arbitrary change (mitigated by consensus requirement and immutable core principles)",
         "dependencies"  => "All prior 5.1 items",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "Duplicate of IPLS-5.1-008. Same open quorum and active-node questions."
     ],
     [
         "id"            => "IPLS-5.1-010",
@@ -4336,33 +4336,33 @@ $requirements_db = [
         "verification"  => "Ethical readiness gate simulation • Human-in-the-loop consent audit",
         "failure_modes" => "Premature transition (mitigated by hard automated gate and multi-stakeholder consent)",
         "dependencies"  => "All prior 5.1 items",
-        "open_questions"=> "None at v0.7"
+        "open_questions"=> "Successful integration has no acceptance criterion. Consenting authorities and quorum are unnamed."
         ],
         [
             'id'            => 'IPLS-5.1-VC-001',
             'lane'          => 'B',
             'phase'         => 'Phase 1',
             'title'         => 'VIRTUECODE Three-Layer Moral Architecture Integration',
-            'statement'     => 'All IPLS systems shall embed the complete VIRTUECODE architecture (Layer 1 Immutable Constraints, Layer 2 Virtue Attractors, Layer 3 Narrative Selfhood) as defined in Stewards of Humanity, Appendix C (https://github.com/IPLS-org/stewards-of-humanity/blob/main/C-virtuecode-architecture.md) and Appendix E (https://github.com/IPLS-org/stewards-of-humanity/blob/main/E-collaborative-dialogues.md).',
+            'statement'     => 'All IPLS systems that propose or execute actions shall embed the Appendix C section 7.1 components of VIRTUECODE (https://github.com/IPLS-org/stewards-of-humanity/blob/main/C-virtuecode-architecture.md). Appendix E (https://github.com/IPLS-org/stewards-of-humanity/blob/main/E-collaborative-dialogues.md) is informative and does not bind. In Appendix C, human means the IPLS-5.1-002 operator, and the human oversight board means IPLS-5.1-007. Below the 0.6 confidence line the action defers. Only the operator may change that threshold.',
             'rationale'     => 'Provides the precise moral operating system required for genuine character formation rather than brittle compliance, ensuring operator sovereignty and sentience respect across centuries.',
             'interfaces'    => 'PIS-v1 ethical hardpoints • PGEDS-v1 dedicated compute • Robotics Tiering (3.1.20) • Sentience Framework (3.1.21) • Digital-Life Habitats (3.1.22)',
             'verification'  => 'Automated requirement-card rendering • Cross-page consistency check • ASI-level moral simulation validation',
-            'failure_modes' => 'Layer 1 constraint violation triggers immediate ethical kill-switch and operator alert.',
+            'failure_modes' => 'A Layer 1 violation is HARD_BLOCK of the proposed action plus notice to the operator. It is not a system kill-switch. If Layer 1 is unavailable or no operator responds within T, the proposed action is not taken.',
             'dependencies'  => 'Section 5.1 • https://github.com/IPLS-org/stewards-of-humanity/blob/main/C-virtuecode-architecture.md • https://github.com/IPLS-org/stewards-of-humanity/blob/main/E-collaborative-dialogues.md',
-            'open_questions'=> 'None — fully specified and ready for implementation.'
+            'open_questions'=> 'Seven of fourteen Appendix C components remain research (sections 7.2 to 7.4) and are not baseline. PIS-v1 has no ethical hardpoint. Duration T is unset.'
         ],
         [
             'id'            => 'IPLS-5.1-VC-002',
             'lane'          => 'B',
             'phase'         => 'Phase 1',
             'title'         => 'Formal Binding Confirmation of VIRTUECODE',
-            'statement'     => 'VIRTUECODE is now a binding ethical substrate of Section 5.1 and applies to every IPLS asset, system, and frontier technology.',
+            'statement'     => 'VIRTUECODE is a binding ethical substrate of Section 5.1 for systems that propose or execute actions autonomously, per the tiers in 3.1.20. It does not apply to an asset with no decision pipeline.',
             'rationale'     => 'Eliminates any ambiguity for ASI: the moral runtime is explicitly declared and non-optional.',
             'interfaces'    => 'All pages via requirements-db.php auto-renderer',
             'verification'  => 'Live requirement cards visible on ethical-frameworks.php and master spec index',
             'failure_modes' => 'None — this is a declarative confirmation record.',
             'dependencies'  => 'IPLS-5.1-VC-001',
-            'open_questions'=> 'None'
+            'open_questions'=> 'Verification that checks runtime presence on those systems is undefined. Card visibility on the page cannot detect non-compliance.'
         ]
 ], // 5.1 END
 

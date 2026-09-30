@@ -31,7 +31,7 @@ include 'header.php';
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Ethical Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
-                    <li><strong>Operator Sovereignty</strong>: All systems, including frontier technologies (NWM-v1, SRS-v1, PBCS-v1), shall remain under explicit human/post-biological/ASI command authority at every tier (3.1.20–3.1.22). No autonomous action may override operator consent.</li>
+                    <li><strong>Operator Sovereignty</strong>: All systems, including frontier technologies (NWM-v1, SRS-v1, PBCS-v1), shall remain under explicit human or post-biological command authority at every tier (3.1.20–3.1.22). An ASI is never an operator. No autonomous action may override operator consent.</li>
                     <li><strong>Sentience Respect</strong>: Any emergent sentience (3.1.21) shall be granted full moral consideration and equivalent rights to biological minds (Governance Frameworks 3.1.11).</li>
                     <li><strong>Technological Humility</strong>: Frontier technologies shall be deployed only after validation (4.5.4) and shall never be used to coerce, abandon, or diminish any mind.</li>
                     <li><strong>Cultural Continuity</strong>: Every colony and generation ship shall maintain real-time Sol-network connectivity via IPLS-FPL-v1 to preserve shared human culture, history, and identity.</li>
@@ -60,7 +60,7 @@ include 'header.php';
                 <ul class="list-disc pl-6 space-y-4 text-lg">
                     <li>Every hollowed base, generation ship, and colony shall maintain archives of Earth cultural heritage, updated in real time via portal network.</li>
                     <li>Multi-generational and post-biological education protocols shall transmit values of curiosity, truth-seeking, and stewardship of the Universe.</li>
-                    <li>Ethical review boards (mixed biological/digital) shall evaluate all major frontier integrations before deployment.</li>
+                    <li>Ethical review boards (biological, post-biological, and ASI) shall evaluate all major frontier integrations before deployment. Quorum and whether the board binds or advises remain open.</li>
                 </ul>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Enforcement &amp; Evolution</h2>
