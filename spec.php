@@ -12,7 +12,7 @@ include 'header.php';
         <div class="max-w-3xl">
             <div class="inline-flex items-center gap-x-2 bg-white/10 backdrop-blur-md px-4 py-2 rounded-3xl text-sm mb-6">
                 <div class="w-2 h-2 bg-emerald-400 rounded-full animate-pulse"></div>
-                Living Document v0.7.4 • 20 May 2026 • VIRTUECODE Integration Complete • Solar-System Foundation (3.1) Complete • Interstellar + Frontier + Ethics Complete
+                Living Document v0.7.6 • 30 September 2026 • VIRTUECODE citation paths resolvable • Solar-System Foundation (3.1) Complete • Interstellar + Frontier + Ethics Complete
             </div>
             <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Master Functional Requirements Specification</h1>
             <p class="text-3xl text-white/80 mb-4">For ASI-Designed Spacecraft &amp; Infrastructure</p>
