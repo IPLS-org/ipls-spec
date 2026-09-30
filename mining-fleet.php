@@ -22,7 +22,7 @@ include 'header.php';
                     <li>All vessels built on the Universal Modular Platform core for full interoperability</li>
                     <li>Autonomous anchoring, drilling, and excavation systems (laser, mechanical, or thermal methods)</li>
                     <li>Real-time ore sorting and initial processing (crushing, smelting, or chemical extraction)</li>
-                    <li>Swarm coordination via open protocols (with quantum entanglement option once available)</li>
+                    <li>Swarm coordination peer to peer on open protocols. Entanglement is not a link. ASI analysis is advisory.</li>
                     <li>Propellant-efficient station-keeping and material transfer between mining units and transport vessels</li>
                     <li>Redundant fail-operational architecture — fleet must continue production even if individual units fail</li>
                     <li>High-throughput material output (ingots, beams, regolith pellets) compatible with orbital manufacturing or on-site construction</li>
@@ -33,7 +33,7 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Automation-First Philosophy</h3>
-                <p class="text-white/70">All initial mining and ISRU is fully automated. Crewed habitat modules and human oversight are only deployed once the operation has proven stable, profitable, and safe. This dramatically reduces risk and accelerates the timeline to first revenue.</p>
+                <p class="text-white/70">Operator authority applies from Phase 0. Crew deploy after the IPLS-3.1-018 conditions and operator consent. Profitability is not a crew-safety gate.</p>
             </div>
 
             <div class="pt-8 border-t border-white/10">

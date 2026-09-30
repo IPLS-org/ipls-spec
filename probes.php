@@ -13,7 +13,7 @@ include 'header.php';
     <div class="mt-8 space-y-12">
         <div>
             <h3 class="text-2xl font-semibold mb-4">Purpose</h3>
-            <p class="text-white/70">Provide high-resolution data on both mineral resources <strong>and</strong> long-term habitability / hollow-base potential so ASI and operators can select asteroids that are not only economically viable but can become permanent, self-sustaining bases of operations.</p>
+            <p class="text-white/70">Provide high-resolution data on both mineral resources <strong>and</strong> long-term habitability / hollow-base potential so the operator can select asteroids. ASI analysis is advisory. The selection score is unset that are not only economically viable but can become permanent, self-sustaining bases of operations.</p>
         </div>
 
         <div>
@@ -35,13 +35,13 @@ include 'header.php';
                 </li>
                 <li>Long-duration autonomous operation with redundant systems</li>
                 <li>Swarm capability or single high-capability probe</li>
-                <li>Secure, high-bandwidth data relay (including quantum entanglement readiness)</li>
+                <li>Data relay on the 3.1.19 network standards. Entanglement is not a link.</li>
             </ul>
         </div>
 
         <div>
             <h3 class="text-2xl font-semibold mb-4">Operational Timeline</h3>
-            <p class="text-white/70">Probes operate in parallel with orbital shipyard construction. Only asteroids that score highly on both resource value <strong>and</strong> habitability/hollow-base potential are selected for full mining fleet deployment.</p>
+            <p class="text-white/70">Probes operate in parallel with orbital shipyard construction. Only asteroids that meet the selection criteria are selected for full mining fleet deployment. The score is an open question on IPLS-3.1-001. The operator selects. ASI analysis is advisory.</p>
         </div>
 
         <div class="pt-8 border-t border-white/10">

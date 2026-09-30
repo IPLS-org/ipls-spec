@@ -20,7 +20,7 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
                     <li>Universal modular core architecture shared with all IPLS platforms</li>
-                    <li>Fully robotic / autonomous assembly capability with ASI oversight</li>
+                    <li>Robotic assembly under operator veto. ASI analysis is advisory.</li>
                     <li>Multiple independent construction bays operating in parallel</li>
                     <li>Zero-gravity and micro-gravity optimised manufacturing processes</li>
                     <li>In-situ use of early ISRU materials as soon as they become available</li>
@@ -33,7 +33,7 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Operational Integration</h3>
-                <p class="text-white/70">Construction begins in parallel with the probe reconnaissance phase. The orbital manufacturing platforms must be fully operational and have produced the complete mining fleet by the time the probe data confirms the asteroid is economically viable. This removes launch-window pressure and allows the fleet to depart immediately once the go decision is made.</p>
+                <p class="text-white/70">Construction begins in parallel with the probe reconnaissance phase. The orbital manufacturing platforms must be fully operational and have produced the complete mining fleet by the time the probe data confirms the asteroid is economically viable. The operator authorises activation. Fabrication pauses at the probe-viability review. A completed fleet is held for retargeting. It does not depart until the operator authorises departure.</p>
             </div>
 
             <div class="pt-8 border-t border-white/10">
