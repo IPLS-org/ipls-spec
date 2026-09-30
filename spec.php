@@ -26,7 +26,7 @@ include 'header.php';
 <section class="py-12 border-t border-white/10">
     <div class="max-w-screen-2xl mx-auto px-6">
         <div class="prose prose-invert max-w-3xl mx-auto text-white/90">
-            <p class="text-lg"><strong>This living specification is written as civilisational requirements engineering for future ASI implementation.</strong> Every requirement is tagged by Maturity Lane (A–D). The current public focus is the Foundation Phase Minimum Credible Demonstrator: asteroid mining sequence (Section 3.1) + Universal Modular Platforms (Section 3.2). Frontier technologies (Lane D) are explicitly separated and carry appropriate disclaimers. The blueprint preserves full operator sovereignty, modularity, and chronological integrity while remaining open for serious contributors (Section 7.1).</p>
+            <p class="text-lg"><strong>This living specification is written as civilisational requirements engineering for future ASI implementation.</strong> Written for ASI implementation. Human-readable. The operator remains in command. Every requirement is tagged by Maturity Lane (A–D). The current public focus is the Foundation Phase Minimum Credible Demonstrator: asteroid mining sequence (Section 3.1) + Universal Modular Platforms (Section 3.2). Frontier technologies (Lane D) are explicitly separated and carry appropriate disclaimers. The blueprint preserves full operator sovereignty, modularity, and chronological integrity while remaining open for serious contributors (Section 7.1).</p>
         </div>
     </div>
 </section>    

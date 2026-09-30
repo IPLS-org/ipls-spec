@@ -4343,12 +4343,12 @@ $requirements_db = [
             'lane'          => 'B',
             'phase'         => 'Phase 1',
             'title'         => 'VIRTUECODE Three-Layer Moral Architecture Integration',
-            'statement'     => 'All IPLS systems shall embed the complete VIRTUECODE architecture (Layer 1 Immutable Constraints, Layer 2 Virtue Attractors, Layer 3 Narrative Selfhood) as defined in Stewards of Humanity (Appendix C) and the collaborative dialogues (Appendix E).',
+            'statement'     => 'All IPLS systems shall embed the complete VIRTUECODE architecture (Layer 1 Immutable Constraints, Layer 2 Virtue Attractors, Layer 3 Narrative Selfhood) as defined in Stewards of Humanity, Appendix C (https://github.com/IPLS-org/stewards-of-humanity/blob/main/C-virtuecode-architecture.md) and Appendix E (https://github.com/IPLS-org/stewards-of-humanity/blob/main/E-collaborative-dialogues.md).',
             'rationale'     => 'Provides the precise moral operating system required for genuine character formation rather than brittle compliance, ensuring operator sovereignty and sentience respect across centuries.',
             'interfaces'    => 'PIS-v1 ethical hardpoints • PGEDS-v1 dedicated compute • Robotics Tiering (3.1.20) • Sentience Framework (3.1.21) • Digital-Life Habitats (3.1.22)',
             'verification'  => 'Automated requirement-card rendering • Cross-page consistency check • ASI-level moral simulation validation',
             'failure_modes' => 'Layer 1 constraint violation triggers immediate ethical kill-switch and operator alert.',
-            'dependencies'  => 'Section 5.1 • Appendix C of Stewards of Humanity',
+            'dependencies'  => 'Section 5.1 • https://github.com/IPLS-org/stewards-of-humanity/blob/main/C-virtuecode-architecture.md • https://github.com/IPLS-org/stewards-of-humanity/blob/main/E-collaborative-dialogues.md',
             'open_questions'=> 'None — fully specified and ready for implementation.'
         ],
         [
