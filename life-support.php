@@ -18,14 +18,15 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
+                <p class="text-white/70 mb-4">The requirement cards on this page govern. Where this text differs, the card applies.</p>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
                     <li>Multi-redundant air revitalisation (biological + physico-chemical loops) with emergency open-loop backup for 90+ days</li>
                     <li>Closed-loop water recovery and purification achieving &gt;99.9% recycling rate</li>
                     <li>Integrated food production (hydroponics, aeroponics, cultured meat/biotech, algae systems) sufficient for long-term caloric and nutritional needs</li>
                     <li>Complete waste processing and nutrient recycling (solid, liquid, and gaseous waste turned back into resources)</li>
                     <li>Atmospheric control (pressure, gas mix, humidity, trace gas scrubbing) optimised for centuries-long human health</li>
-                    <li>Psychological and social support systems (green spaces, recreation areas, entertainment, communal zones)</li>
-                    <li>Advanced medical suite with regenerative medicine capability and on-site diagnostics</li>
+                    <li>Green spaces and recreation follow Recreation, Entertainment, Psychological and Social Systems (3.1.9).</li>
+                    <li>The medical suite follows Medical and Regenerative Medicine Facilities (3.1.10).</li>
                     <li>Integration with the Universal Modular Platform hardpoints for easy expansion or reconfiguration</li>
                     <li>Graceful degradation and autonomous repair protocols — system must remain operational for centuries with minimal external intervention</li>
                 </ul>
