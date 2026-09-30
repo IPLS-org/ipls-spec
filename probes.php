@@ -13,7 +13,7 @@ include 'header.php';
     <div class="mt-8 space-y-12">
         <div>
             <h3 class="text-2xl font-semibold mb-4">Purpose</h3>
-            <p class="text-white/70">Provide high-resolution data on both mineral resources <strong>and</strong> long-term habitability / hollow-base potential so the operator can select asteroids. ASI analysis is advisory. The selection score is unset that are not only economically viable but can become permanent, self-sustaining bases of operations.</p>
+            <p class="text-white/70">Provide high-resolution data on both mineral resources <strong>and</strong> long-term habitability / hollow-base potential so the operator can select asteroids that are economically viable and can become permanent bases. ASI analysis is advisory. The selection score is unset.</p>
         </div>
 
         <div>
