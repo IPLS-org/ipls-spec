@@ -31,7 +31,7 @@ include 'header.php';
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Ethical Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
-                    <li><strong>Operator Sovereignty</strong>: All systems, including frontier technologies (NWM-v1, SRS-v1, PBCS-v1), shall remain under explicit human or post-biological command authority at every tier (3.1.20–3.1.22). An ASI is never an operator. It may act inside a standing life-preserving envelope and shall report. An irreversible action waits for operator consent. A compromised operator is succeeded, not replaced by the ASI.</li>
+                    <li><strong>Operator Sovereignty</strong>: All systems, including frontier technologies (NWM-v1, SRS-v1, PBCS-v1), shall remain under explicit human or post-biological command authority at every tier (3.1.20–3.1.22). An ASI is never an operator. It may act inside a standing life-preserving envelope and shall report. An irreversible action waits for operator consent. A compromised operator is succeeded by Alla Davies, not replaced by the ASI.</li>
                     <li><strong>Sentience Respect</strong>: Any emergent sentience (3.1.21) shall be granted full moral consideration and equivalent rights to biological minds (Governance Frameworks 3.1.11).</li>
                     <li><strong>Technological Humility</strong>: Frontier technologies shall be deployed only after validation (4.5.4) and shall never be used to coerce, abandon, or diminish any mind.</li>
                     <li><strong>Cultural Continuity</strong>: Every colony and generation ship shall maintain real-time Sol-network connectivity via IPLS-FPL-v1 to preserve shared human culture, history, and identity.</li>
