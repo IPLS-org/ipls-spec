@@ -27,6 +27,7 @@ include 'header.php';
         <div class="max-w-screen-2xl mx-auto px-6">
             <h2 class="text-4xl font-semibold tracking-tighter mb-8">Universal Modular Power Architecture</h2>
             <div class="prose prose-invert max-w-none text-white/80 text-lg space-y-8">
+                <p>The requirement cards on this page govern. Where this text differs, the card applies.</p>
                 <h3 class="text-2xl font-semibold">1. Core Architecture Requirements</h3>
                 <ul class="list-disc pl-6 space-y-2">
                     <li>All modules share identical universal interface standards (mechanical, electrical, thermal, data).</li>
@@ -57,7 +58,7 @@ include 'header.php';
                     <li>Graceful degradation: any two failures = 100 % nominal output.</li>
                     <li>Self-repair via embedded ISRU nanofabricators; MTBS &gt; 50 years.</li>
                     <li>Radiation-hardened, EMP-immune, thermal-runaway-proof containment.</li>
-                    <li>Emergency shutdown commandable by any authenticated human or post-biological operator.</li>
+                    <li>Operator authority follows IPLS-5.1-002. An on-site override confers no operator authority.</li>
                 </ul>
 
                 <h3 class="text-2xl font-semibold">5. Energy Distribution, Storage &amp; ISRU Tie-In</h3>
@@ -68,7 +69,7 @@ include 'header.php';
                 </ul>
 
                 <h3 class="text-2xl font-semibold">6. Operator Control &amp; Governance</h3>
-                <p>Hierarchical command: human/post-biological → ASI-augmented → pure ASI (instant veto retained). Full audit log cross-referenced to sources.md.</p>
+                <p>Operator authority follows IPLS-5.1-002. An ASI is never an operator.</p>
             </div>
         </div>
     </section>
