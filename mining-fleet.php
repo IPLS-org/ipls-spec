@@ -27,7 +27,7 @@ include 'header.php';
                     <li>Redundant fail-operational architecture — fleet must continue production even if individual units fail</li>
                     <li>High-throughput material output (ingots, beams, regolith pellets) compatible with orbital manufacturing or on-site construction</li>
                     <li>Continuous environmental monitoring (radiation, thermal, structural stability of the asteroid)</li>
-                    <li>Teleoperation fallback from Earth or nearest command node with low-latency ASI assistance</li>
+                    <li>Fallback is the nearest command node. ASI assistance is advisory. Earth teleoperation is not assumed to be low latency.</li>
                 </ul>
             </div>
 
