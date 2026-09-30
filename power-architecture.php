@@ -18,9 +18,10 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
+                <p class="text-white/70 mb-4">The requirement cards on this page govern. Where this text differs, the card applies.</p>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
-                    <li>Primary power source to be determined by ASI (nuclear fission, fusion, beamed energy, advanced solar, or other safe long-term options)</li>
-                    <li>Minimum 50-year maintenance-free baseline with graceful degradation over centuries</li>
+                    <li>The ASI recommends the primary power source. The operator selects it under IPLS-5.1-002.</li>
+                    <li>Service life per IPLS-3.1.6-008.</li>
                     <li>Multiple independent power buses and energy storage systems (redundancy at every level)</li>
                     <li>Safe, restartable architecture after multi-decade or multi-century dormancy</li>
                     <li>Universal power interfaces compatible with the Universal Modular Platform hardpoints</li>
@@ -33,7 +34,7 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Integration with Hollowed Asteroid</h3>
-                <p class="text-white/70">Power systems are installed after the asteroid is hollowed and sealed. The thick regolith provides natural radiation shielding for reactors or storage units. Excess heat is routed into habitat areas or used for material processing.</p>
+                <p class="text-white/70">Installation order relative to hollowing and sealing is unset. Heat not used shall be rejected to space. Life-support heat shall not depend on generator waste heat alone.</p>
             </div>
 
             <div class="pt-8 border-t border-white/10">
