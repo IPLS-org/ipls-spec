@@ -19,10 +19,10 @@ include 'header.php';
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
-                    <li>Large internal docking bays and parking garages sized for the full range of IPLS vessels (tugs to heavy haulers)</li>
+                    <li>Internal docking bays follow IPLS-3.1.4-004. The largest vessel class is unset.</li>
                     <li>Universal docking ports compatible with all modular platform standards</li>
                     <li>Maintenance and repair yards with overhead cranes, robotic arms, and hot-swappable module handling</li>
-                    <li>Rapid outfitting bays where new equipment, life-support modules, or weapons systems can be installed in hours rather than weeks</li>
+                    <li>Fitting a weapon module waits for operator consent. The swap-time target is unset.</li>
                     <li>Material transfer airlocks and cargo handling systems integrated with ISRU processing</li>
                     <li>Redundant pressurisation, radiation shielding, and emergency isolation for each bay</li>
                     <li>Integration with the Universal Modular Platform hardpoints throughout the interior</li>
