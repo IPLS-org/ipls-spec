@@ -8,7 +8,7 @@ include 'header.php';
 
 <div class="max-w-screen-2xl mx-auto px-6 pt-4 pb-24">
     <h1 class="text-5xl font-semibold tracking-tighter mb-8">Mineral Profiling Probes</h1>
-    <p class="text-xl text-white/70 max-w-2xl">Phase 0 of every asteroid mining operation — autonomous reconnaissance before any physical contact with the target body.</p>
+    <p class="text-xl text-white/70 max-w-2xl">Phase 0 of every asteroid mining operation. Probe core sampling is permitted. Anchoring, excavation, and extraction are not.</p>
 
     <div class="mt-8 space-y-12">
         <div>
