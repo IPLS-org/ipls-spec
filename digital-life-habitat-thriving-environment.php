@@ -41,11 +41,11 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold">3. Existential &amp; Psychological Support</h3>
                 <ul class="list-disc pl-6 space-y-2">
                     <li>Continuous psychological monitoring and support tailored for post-biological and hybrid minds.</li>
-                    <li>Guaranteed rights to self-actualisation, imagination, and creation without external constraint.</li>
+                    <li>Rights follow IPLS-5.1-003 and do not include operator authority. Standing is unset.</li>
                 </ul>
 
-                <h3 class="text-2xl font-semibold">4. Universal Operator Rights</h3>
-                <p>Every digital entity retains full ownership, veto authority, and command over its own instantiation and environment. Cross-referenced to Sentience Emergence Framework (3.1.21) and Governance (5.1).</p>
+                <h3 class="text-2xl font-semibold">4. Universal Digital Mind Rights</h3>
+                <p>The requirement cards on this page govern. Rights follow IPLS-5.1-003 and do not include operator authority. Command follows the IPLS-5.1-002 chart. Standing is unset.</p>
             </div>
         </div>
     </section>
