@@ -31,7 +31,7 @@ include 'header.php';
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Design Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
-                    <li>Universal Modular Platform (3.2) compliance with standardised PIS-v1 and PGEDS-v1 hardpoints throughout all factory and shipyard modules.</li>
+                    <li>PIS-v1 is an upgrade path. PGEDS-v1 dependence follows IPLS-3.1.6.1-001.</li>
                     <li>100 % ISRU feedstock utilisation — no Earth-sourced materials required after initial seed delivery.</li>
                     <li>Integration with IPLS-SRS-v1 self-replicating systems for exponential scaling of production capacity.</li>
                     <li>Full robotics tiering, sentience monitoring, and operator command authority (3.1.20–3.1.22).</li>
@@ -54,7 +54,7 @@ include 'header.php';
                     <h4 class="font-semibold mb-4">Functional Requirements — Internal Shipyard Bays</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
                         <li>Large internal bays sized for generation-ship and colony-seeding-ship construction (Section 4.1 &amp; 3.1.17).</li>
-                        <li>Nacelle integration hardpoints for IPLS-NWM-v1 drives and PIS-v1 portal interfaces.</li>
+                        <li>Nacelle integration uses UMP-PROP-001. PIS-v1 is an upgrade path. Whether NWM-v1 is a dependency at Lane B is unset.</li>
                         <li>Automated assembly lines powered by dedicated PGEDS-v1 micro-grids with triple-redundant failover.</li>
                     </ul>
                 </div>
@@ -63,8 +63,8 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Manufacturing Resilience</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>Full IPLS-RSS-v1 hybrid radiation shielding on all factory volumes.</li>
-                        <li>IPLS-FPL-v1 portal connectivity for real-time Sol-network design updates and component transfer.</li>
+                        <li>RSS-v1 is an upgrade path.</li>
+                        <li>FPL-v1 is an upgrade path. Design updates use the 3.1.19 network at light delay.</li>
                         <li>TSP-v1 supersession readiness — all manufactured assets designed for future upgrades without decommissioning.</li>
                     </ul>
                 </div>
