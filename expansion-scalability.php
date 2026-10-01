@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Expansion &amp; Scalability Systems</h1>
                 <p class="text-3xl text-white/80 mb-4">Planned chamber expansion and seeding of daughter colonies</p>
-                <p class="text-xl text-white/70">Controlled growth of hollowed asteroid bases and multi-body infrastructure using IPLS-SRS-v1 self-replicating systems, NWM-v1 propulsion, RSS-v1 shielding, FPL-v1 portal connectivity, and TSP-v1 supersession readiness — all under explicit operator control.</p>
+                <p class="text-xl text-white/70">The requirement cards on this page govern. Each enlargement and each replication cycle wait for operator consent. FPL-v1 is an upgrade path. Hand-over does not move command off the IPLS-5.1-002 chart.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -63,7 +63,7 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Interoperability &amp; Supersession</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>New daughter chambers and colonies receive immediate IPLS-FPL-v1 portal link for real-time network integration.</li>
+                        <li>New chambers join the 3.1.19 network at light delay. FPL-v1 is an upgrade path. Entanglement is not a link.</li>
                         <li>TSP-v1 supersession protocol pre-engineered for future upgrades to expansion technology without interrupting operations.</li>
                         <li>Seeding of independent daughter colonies follows the full arrival sequence (Section 4.2) while remaining physically connected via internal infrastructure.</li>
                     </ul>
@@ -74,7 +74,7 @@ include 'header.php';
                     <li>Operator-approved expansion plan activated via SRS-v1 swarms.</li>
                     <li>Chamber enlargement or new daughter chamber excavation with continuous structural validation.</li>
                     <li>Parallel installation of life support, power, transport, and portal links.</li>
-                    <li>Handover of new chambers/colonies to local governance once self-sustaining (per 3.1.11 &amp; 5.1).</li>
+                    <li>Hand-over does not move command of irreversible acts off the IPLS-5.1-002 chart.</li>
                 </ol>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Ethical &amp; Safety Guardrails</h2>
