@@ -26,7 +26,7 @@ include 'header.php';
                     <li>Redundant routing and emergency isolation capability</li>
                     <li>Low-energy, low-maintenance design suitable for centuries of continuous operation</li>
                     <li>Integration with artificial gravity sections (centrifugal or otherwise) for smooth transitions</li>
-                    <li>Real-time traffic management and collision-avoidance systems under ASI oversight</li>
+                    <li>Traffic management is under operator command. ASI analysis is advisory.</li>
                     <li>Expansion-ready — new tunnels and shafts can be added as the base grows</li>
                 </ul>
             </div>
