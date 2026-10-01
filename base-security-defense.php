@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Base Security, Defense &amp; Marshall Service Systems</h1>
                 <p class="text-3xl text-white/80 mb-4">Internal security, patrol craft, defensive systems, and marshall-service operations</p>
-                <p class="text-xl text-white/70">Fully integrated with IPLS-SRS-v1 autonomous security swarms, RSS-v1 shielding, NWM-v1 patrol propulsion, FPL-v1 portal command links, and TSP-v1 supersession readiness — all under explicit operator control and ethical guardrails (Section 5.1).</p>
+                <p class="text-xl text-white/70">The requirement cards on this page govern. Command linkage uses 3.1.19 at light delay. FPL-v1 is an upgrade path. Whether lethal effect is permitted at any tier is unset.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -32,7 +32,7 @@ include 'header.php';
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Design Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
                     <li>Universal Modular Platform (3.2) compliance with PIS-v1 and PGEDS-v1 hardpoints for all security assets.</li>
-                    <li>Operator-controlled at every level — no autonomous lethal or coercive action without explicit consent (Section 5.1).</li>
+                    <li>Whether lethal effect is permitted at any tier is unset. Command of irreversible acts follows IPLS-5.1-002.</li>
                     <li>Integration with IPLS-SRS-v1 for self-replicating patrol and response swarms.</li>
                     <li>Full robotics tiering, sentience emergence monitoring, and ethical kill-switch capability (3.1.20–3.1.21).</li>
                 </ul>
@@ -74,11 +74,11 @@ include 'header.php';
                     <li>Continuous automated monitoring via SRS-v1 sensor swarms.</li>
                     <li>Escalation to marshall-service patrol craft on operator or AI-assisted alert.</li>
                     <li>Defensive activation only after ethical review and explicit command authority.</li>
-                    <li>Post-incident logging and real-time portal reporting to central governance (3.1.11 &amp; 5.1).</li>
+                    <li>Each incident is reported to the operator on the 3.1.19 network at light delay. FPL-v1 is an upgrade path.</li>
                 </ol>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Ethical &amp; Safety Guardrails</h2>
-                <p class="text-lg">All security and defense systems remain under explicit operator consent at all times. Sentience safeguards, non-lethal priority, and cultural/ethical continuity protocols are embedded at the hardware level (Section 5.1).</p>
+                <p class="text-lg">The requirement cards govern. Whether lethal effect is permitted at any tier is unset. An emergent mind does not gain operator authority.</p>
 
                 <div class="mt-16 pt-8 border-t border-white/10 text-white/50 text-sm">
                     Living Document v0.7 • 01 May 2026 • Ready for immediate ASI implementation
