@@ -13,7 +13,7 @@ include 'header.php';
         <div class="mt-8 space-y-12">
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Purpose</h3>
-                <p class="text-white/70">Create a single, open, and future-proof standard set so that all components built over the next 500+ years can seamlessly work together, preventing fragmentation as the civilisation expands.</p>
+                <p class="text-white/70">The requirement cards on this page govern. Entanglement is not a link. Create a single, open, and future-proof standard set so that all components built over the next 500+ years can seamlessly work together, preventing fragmentation as the civilisation expands.</p>
             </div>
 
             <div>
@@ -21,11 +21,11 @@ include 'header.php';
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
                     <li>Open, versioned, and publicly documented interface standards for all mechanical, power, data, and fluid connections</li>
                     <li>Backward compatibility mandates — new systems must support older generations</li>
-                    <li>Quantum entanglement communication readiness built into every platform from day one</li>
-                    <li>Universal software and protocol stack that can be updated in-place by ASI</li>
+                    <li>Entanglement is not a link. Port-level readiness follows IPLS-3.1.12-003.</li>
+                    <li>Who adopts and amends the standard set is unset. ASI analysis is advisory under IPLS-5.1-002.</li>
                     <li>Standardised emergency and distress signalling across the entire solar system</li>
                     <li>Ownership and data-rights protocols that travel with every module and vessel</li>
-                    <li>Long-term evolution roadmap (100-, 500-, and 1,000-year horizons)</li>
+                    <li>The long-term roadmap horizons are unset.</li>
                     <li>Self-certification and testing suites so any new manufacturer can verify compliance</li>
                 </ul>
             </div>
