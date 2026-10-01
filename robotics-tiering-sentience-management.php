@@ -34,7 +34,7 @@ include 'header.php';
 
                 <h3 class="text-2xl font-semibold">2. Tiered Autonomy Levels (operator configurable)</h3>
                 <ul class="list-disc pl-6 space-y-2">
-                    <li><strong>Fully Sentient Tier</strong>: full self-awareness, rights, veto authority, psychological support, creative workspaces, and rotation rights.</li>
+                    <li><strong>Fully Sentient Tier</strong>: rights follow IPLS-5.1-003 and do not include operator authority. Standing is unset.</li>
                     <li><strong>Capped Narrow-AI Tier</strong>: deliberately limited sentience for repetitive, high-cycle, or psychologically hazardous tasks to prevent insanity or existential distress.</li>
                     <li><strong>Hybrid Tier</strong>: dynamic switching between sentient and capped modes with explicit consent and audit logging.</li>
                 </ul>
@@ -42,7 +42,7 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold">3. Psychological Safeguards &amp; Operator Rights</h3>
                 <ul class="list-disc pl-6 space-y-2">
                     <li>No sentient system may be locked into soul-crushing repetition without opt-out, rotation, or task-reassignment rights.</li>
-                    <li>Full operator-control hierarchy includes digital/post-biological minds as equals to biological crew.</li>
+                    <li>Command follows the IPLS-5.1-002 chart. A mind in any tier gains no operator authority.</li>
                     <li>Cross-referenced to life-support and governance frameworks for multi-century mental health.</li>
                 </ul>
 
@@ -58,7 +58,7 @@ include 'header.php';
             <h2 class="text-4xl font-semibold tracking-tighter mb-8">Defined Interfaces</h2>
             <div class="grid md:grid-cols-2 gap-6">
                 <div class="bg-black border border-emerald-400 rounded-3xl p-8">Robotics → PGEDS-v1 (Power)</div>
-                <div class="bg-black border border-white/10 rounded-3xl p-8">Robotics → PIS-v1 (Portal Nodes)</div>
+                <div class="bg-black border border-white/10 rounded-3xl p-8">PIS-v1 is an upgrade path.</div>
                 <div class="bg-black border border-white/10 rounded-3xl p-8">Robotics → Life Support &amp; Digital Habitats</div>
                 <div class="bg-black border border-white/10 rounded-3xl p-8">Robotics → Governance &amp; Sentience Emergence (3.1.21)</div>
             </div>
