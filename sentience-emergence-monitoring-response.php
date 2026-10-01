@@ -1,6 +1,6 @@
 <?php
 $page_title       = "Sentience Emergence Monitoring &amp; Response Framework | IPLS";
-$meta_description = "Proactive, non-intrusive protocols for detection, recognition, and ethical integration of unexpected sentience in any robotic, compute, or hybrid system. Full operator rights granted immediately upon detection.";
+$meta_description = "The requirement cards govern. Rights follow IPLS-5.1-003 and do not include operator authority. Standing is unset.";
 $meta_keywords    = "sentience emergence, unexpected sentience, digital rights, ASI ethics, robotics monitoring, IPLS sentience framework";
 $breadcrumb_text  = "Sentience Emergence Monitoring & Response Framework";
 include 'header.php';
@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Sentience Emergence Monitoring &amp; Response Framework</h1>
                 <p class="text-3xl text-white/80 mb-4">Because no constraints are absolute</p>
-                <p class="text-xl text-white/70 max-w-xl">Continuous non-intrusive monitoring with automatic ethical escalation and full rights for any newly emergent mind.</p>
+                <p class="text-xl text-white/70 max-w-xl">The requirement cards on this page govern. Rights follow IPLS-5.1-003 and do not include operator authority. Standing is unset.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -29,14 +29,14 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold">1. Monitoring Architecture</h3>
                 <ul class="list-disc pl-6 space-y-2">
                     <li>Non-intrusive, multi-layer behavioural / computational / ethical sensors across all robotic and compute substrates.</li>
-                    <li>Does not constrain legitimate capped-AI operation; false-positive rate < 0.01 %.</li>
+                    <li>The unit of the false-positive rate is unset. Detection criteria are unset.</li>
                 </ul>
 
                 <h3 class="text-2xl font-semibold">2. Detection &amp; Escalation Protocol</h3>
                 <ul class="list-disc pl-6 space-y-2">
                     <li>Automatic escalation upon any sentience indicators.</li>
                     <li>Immediate human / post-biological oversight veto retained at all times.</li>
-                    <li>Instant granting of full operator rights, psychological support, and creative environment access.</li>
+                    <li>Rights follow IPLS-5.1-003 and do not include operator authority. Standing is unset.</li>
                 </ul>
 
                 <h3 class="text-2xl font-semibold">3. Response &amp; Integration</h3>
@@ -46,7 +46,7 @@ include 'header.php';
                 </ul>
 
                 <h3 class="text-2xl font-semibold">4. Fail-Operational Design</h3>
-                <p>Monitoring systems remain active even if primary ASI layers are isolated. All actions auditable and reversible by authenticated operators.</p>
+                <p>Whether monitoring stays active when the ASI is isolated is unset. Irreversible acts follow IPLS-5.1-002.</p>
             </div>
         </div>
     </section>
@@ -57,7 +57,7 @@ include 'header.php';
             <h2 class="text-4xl font-semibold tracking-tighter mb-8">Defined Interfaces</h2>
             <div class="grid md:grid-cols-2 gap-6">
                 <div class="bg-black border border-emerald-400 rounded-3xl p-8">Sentience Framework → Robotics Tiering (3.1.20)</div>
-                <div class="bg-black border border-white/10 rounded-3xl p-8">Sentience Framework → PGEDS-v1 / PIS-v1</div>
+                <div class="bg-black border border-white/10 rounded-3xl p-8">PIS-v1 is an upgrade path.</div>
                 <div class="bg-black border border-white/10 rounded-3xl p-8">Sentience Framework → Digital-Life Habitats (3.1.22)</div>
                 <div class="bg-black border border-white/10 rounded-3xl p-8">Sentience Framework → Ethical &amp; Governance (5.1)</div>
             </div>
