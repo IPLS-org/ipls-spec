@@ -25,9 +25,9 @@ include 'header.php';
                     <li>Pharmacy and on-site pharmaceutical synthesis using ISRU-derived materials</li>
                     <li>Isolation and quarantine modules for potential unknown pathogens</li>
                     <li>Psychological and neurological care integration with the recreation systems</li>
-                    <li>Long-term cryogenic or stasis capability for critical cases (until ASI-level revival is available)</li>
+                    <li>Whether cryogenic or stasis capability is within this section is unset.</li>
                     <li>Modular design using Universal Modular Platform hardpoints for easy expansion</li>
-                    <li>Autonomous AI-assisted triage and routine care to reduce crew workload</li>
+                    <li>Whether AI-assisted triage is within this section is unset.</li>
                 </ul>
             </div>
 
