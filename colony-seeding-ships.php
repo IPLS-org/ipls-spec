@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Colony Seeding Ships &amp; Multi-Body Infrastructure</h1>
                 <p class="text-3xl text-white/80 mb-4">Self-replicating expansion through seed ships</p>
-                <p class="text-xl text-white/70">Fully integrated with IPLS-SRS-v1 self-replicating systems, NWM-v1 propulsion, RSS-v1 shielding, FPL-v1 portal connectivity, TSP-v1 supersession protocol, and PBCS-v1 post-biological support — all operator-controlled and fail-operational for centuries.</p>
+                <p class="text-xl text-white/70">The requirement cards on this page govern. Seeding and crew launch wait for operator consent. FPL-v1 and RSS-v1 are upgrade paths. Hand-over does not move command off the IPLS-5.1-002 chart.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -55,7 +55,7 @@ include 'header.php';
                     <h4 class="font-semibold mb-4">Functional Requirements — Seeding Voyage Configuration</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
                         <li>4× IPLS-NWM-v1 nacelles for efficient 0.1–0.2 c cruise and precise deceleration into target systems.</li>
-                        <li>Full hybrid RSS-v1 shielding (active magnetic + ISRU BNNT passive layers) for multi-year interstellar exposure.</li>
+                        <li>RSS-v1 is an upgrade path. The baseline transit shielding is unset.</li>
                         <li>PGEDS-v1 power substrate with triple-redundant failover.</li>
                     </ul>
                 </div>
@@ -64,7 +64,7 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Network &amp; Legacy Readiness</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>IPLS-FPL-v1 first portal link established immediately upon arrival at target body for real-time Sol/colony network integration.</li>
+                        <li>On arrival the ship joins the 3.1.19 network at light delay. FPL-v1 is an upgrade path. Entanglement is not a link.</li>
                         <li>TSP-v1 supersession protocol pre-engineered: seed ships and daughter colonies designed for future nacelle/portal upgrades without abandonment.</li>
                     </ul>
                 </div>
@@ -73,9 +73,9 @@ include 'header.php';
                 <ol class="list-decimal pl-6 space-y-4 text-lg">
                     <li>Launch from established colony using local ISRU-manufactured hulls and seed payload.</li>
                     <li>Interstellar transit under NWM-v1 + RSS-v1 protection with continuous frontier monitoring.</li>
-                    <li>Arrival, deceleration, system survey, and immediate IPLS-FPL-v1 link establishment (per 4.2).</li>
+                    <li>On arrival the ship joins the 3.1.19 network. FPL-v1 is an upgrade path.</li>
                     <li>Deployment of IPLS-SRS-v1 seed swarm to initiate mining, ISRU, and hollowed-base construction.</li>
-                    <li>Handover to new local governance once first hollowed base is operational.</li>
+                    <li>Hand-over does not move command of irreversible acts off the IPLS-5.1-002 chart.</li>
                 </ol>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Ethical &amp; Operator Safeguards</h2>
