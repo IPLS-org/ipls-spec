@@ -23,7 +23,7 @@ include 'header.php';
                     <li>Entertainment and cultural facilities (theatres, music venues, virtual-reality suites, libraries, art studios)</li>
                     <li>Sports and physical recreation areas adapted to partial or artificial gravity</li>
                     <li>Social hubs, communal dining, and gathering spaces designed for multi-generational interaction</li>
-                    <li>Psychological monitoring and support systems (AI-assisted therapy, mood regulation, privacy-respecting wellness tracking)</li>
+                    <li>Psychological monitoring and support systems. Treatment follows 3.1.10. Access to psychological data is unset.</li>
                     <li>Education and lifelong learning facilities for both children and long-lived adults</li>
                     <li>Private family quarters and flexible living arrangements</li>
                     <li>Integration with life-support systems for natural circadian lighting and seasonal simulation</li>
