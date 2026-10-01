@@ -20,9 +20,9 @@ include 'header.php';
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
-                    <li>Standardised mechanical hardpoints (bolt-on, weld-on, and quick-release) on all faces</li>
+                    <li>Hardpoint types are unset. The cards govern.</li>
                     <li>Universal power take-offs with multiple voltage/current options and redundant buses</li>
-                    <li>High-bandwidth data buses (optical + copper) with open, published protocols <strong>OR</strong> advanced quantum entanglement communications interfaces (once proven viable and stable by ASI)</li>
+                    <li>Entanglement is not a link. Entanglement-ready ports follow IPLS-3.1.12-003.</li>
                     <li>Fluid and gas coupling ports for propellant, coolant, air, and water transfer</li>
                     <li>Full operator control interface — no hidden proprietary systems or vendor lock-in</li>
                     <li>Hot-swappable module compatibility — modules can be added or removed while the platform is operational</li>
@@ -34,7 +34,7 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Integration with Other Systems</h3>
-                <p class="text-white/70">Every probe, mining rig, orbital manufacturing platform, support vessel, and habitat module is built around this same universal core. This creates true fleet-wide interoperability, simplifies maintenance, and allows third-party companies to develop specialised bolt-on modules while IPLS retains control of the core architecture.</p>
+                <p class="text-white/70">The requirement cards on this page govern. The port rating is unset. Every probe, mining rig, orbital manufacturing platform, support vessel, and habitat module is built around this same universal core. This creates true fleet-wide interoperability, simplifies maintenance, and allows third-party companies to develop specialised bolt-on modules while IPLS retains control of the core architecture.</p>
             </div>
 
             <div class="pt-8 border-t border-white/10">
