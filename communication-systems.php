@@ -1,6 +1,6 @@
 <?php
 $page_title       = "Communication & External Connectivity | Quantum-Ready Interplanetary & Interstellar Networks";
-$meta_description = "High-bandwidth laser and quantum entanglement communication systems linking asteroid bases to the solar system and beyond.";
+$meta_description = "External communication at light delay. Entanglement is not a link.";
 $meta_keywords    = "quantum communication space, interstellar comms, space communication systems";
 $breadcrumb_text  = "Communication & External Connectivity Systems";
 include 'header.php';
@@ -20,7 +20,7 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
                     <li>Primary high-bandwidth laser/optical comms array with redundant radio backup</li>
-                    <li>Forward-compatible quantum entanglement communication interfaces (once ASI proves stable and scalable)</li>
+                    <li>Entanglement is not a link. Entanglement-ready ports are an upgrade path.</li>
                     <li>Internal base-wide mesh network using the Universal Modular Platform hardpoints</li>
                     <li>Low-latency relay capability to Earth, Luna, Mars, and other bases</li>
                     <li>Autonomous antenna pointing and beam-forming for moving targets (ships, probes, other asteroids)</li>
@@ -33,7 +33,7 @@ include 'header.php';
 
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Operational Integration</h3>
-                <p class="text-white/70">Communication systems are installed after power and internal transport are online. They become the nervous system of the base, enabling real-time oversight from Earth while giving local crews full autonomy when needed.</p>
+                <p class="text-white/70">The requirement cards on this page govern. Where this text differs, the card applies. Oversight from Earth is at light delay.</p>
             </div>
 
             <div class="pt-8 border-t border-white/10">
