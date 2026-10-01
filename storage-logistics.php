@@ -13,7 +13,7 @@ include 'header.php';
         <div class="mt-8 space-y-12">
             <div>
                 <h3 class="text-2xl font-semibold mb-4">Purpose</h3>
-                <p class="text-white/70">Provide massive, organised, and easily accessible storage for all materials and goods, enabling efficient distribution to manufacturing, life support, docking, and expansion zones while minimising waste and downtime.</p>
+                <p class="text-white/70">The requirement cards on this page govern. Storage capacity is unset. Allocation follows IPLS-3.1-019.</p>
             </div>
 
             <div>
