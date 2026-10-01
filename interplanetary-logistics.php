@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Interplanetary Trade, Logistics &amp; Supply Chain Systems</h1>
                 <p class="text-3xl text-white/80 mb-4">Solar-system-wide cargo routes and standardised logistics</p>
-                <p class="text-xl text-white/70">Fully integrated with IPLS-SRS-v1 self-replicating logistics hubs, NWM-v1 propulsion, RSS-v1 shielding, FPL-v1 portal connectivity, and TSP-v1 supersession readiness — all under explicit operator control and open standards.</p>
+                <p class="text-xl text-white/70">The requirement cards on this page govern. Allocation follows IPLS-3.1-019. Relay is at light delay. FPL-v1 and RSS-v1 are upgrade paths. Who approves settlements is unset.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -53,9 +53,9 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Interplanetary Routes</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>Standardised cargo tugs and freighters powered by IPLS-NWM-v1 nacelles for efficient 0.1–0.2 c transit.</li>
-                        <li>Full IPLS-RSS-v1 hybrid shielding for all cargo vessels and hubs.</li>
-                        <li>Real-time routing via Network Standards (3.1.19) and FPL-v1 portal priority for high-value or time-critical shipments.</li>
+                        <li>Nacelle integration uses UMP-PROP-001. Whether NWM-v1 is a dependency at Lane B is unset.</li>
+                        <li>RSS-v1 is an upgrade path. The baseline transit shielding is unset.</li>
+                        <li>Relay is at light delay. FPL-v1 is an upgrade path.</li>
                     </ul>
                 </div>
 
@@ -63,7 +63,7 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Instantaneous &amp; Future-Proof Trade</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>IPLS-FPL-v1 portal nodes at all major logistics hubs for instantaneous high-value cargo and personnel transfer.</li>
+                        <li>FPL-v1 is an upgrade path. Activation of a portal waits for operator consent.</li>
                         <li>TSP-v1 supersession protocol pre-engineered — all logistics assets designed for seamless upgrade to newer propulsion or portal technologies.</li>
                     </ul>
                 </div>
@@ -72,8 +72,8 @@ include 'header.php';
                 <ol class="list-decimal pl-6 space-y-4 text-lg">
                     <li>Standardised cargo manifests submitted via network standards (3.1.19).</li>
                     <li>Automated routing and scheduling by SRS-v1 logistics AI under operator oversight.</li>
-                    <li>Loading, transit, and delivery with real-time portal-linked tracking.</li>
-                    <li>Post-delivery audit and payment settlement via open governance protocols (3.1.11).</li>
+                    <li>Tracking is at light delay. Entanglement is not a link.</li>
+                    <li>Who approves contract terms and settlements is unset. Dispute resolution follows IPLS-3.1.11-005.</li>
                 </ol>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Ethical &amp; Safety Guardrails</h2>
