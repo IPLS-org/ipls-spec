@@ -20,9 +20,9 @@ include 'header.php';
                 <h3 class="text-2xl font-semibold mb-4">Key Functional Requirements</h3>
                 <ul class="list-disc pl-6 space-y-4 text-white/80">
                     <li>Clear ownership model (IPLS as founding stakeholder with equity in the base and derived infrastructure)</li>
-                    <li>Hybrid governance system (AI-assisted deliberative democracy with human oversight)</li>
+                    <li>ASI analysis is advisory. Command of irreversible acts follows IPLS-5.1-002. Who may vote is unset.</li>
                     <li>Defined liability and insurance frameworks for accidents, resource claims, and interstellar trade</li>
-                    <li>Crew rights charter (housing, medical care, recreation, reproduction, exit rights)</li>
+                    <li>Charter text and the minimum level of each right are unset. Housing, medical care, and recreation follow the engineering sections.</li>
                     <li>Dispute resolution protocols (automated mediation escalating to human/ASI arbitration)</li>
                     <li>Planetary protection and contamination rules aligned with future international space law</li>
                     <li>Rules of engagement for security and marshall-service operations</li>
