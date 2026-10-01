@@ -27,7 +27,7 @@ include 'header.php';
             <div class="prose prose-invert max-w-none text-white/90">
 
                 <h2 class="text-4xl font-semibold tracking-tighter mb-8">1. Purpose</h2>
-                <p class="text-lg">To define the functional requirements for the first crewed (or post-biological) interstellar vessels capable of reliable, self-sustaining travel to nearby star systems, while incorporating frontier propulsion (IPLS-NWM-v1) and explicit planning for future technology supersession.</p>
+                <p class="text-lg">The requirement cards on this page govern. To define the functional requirements for the first crewed (or post-biological) interstellar vessels capable of reliable, self-sustaining travel to nearby star systems, while incorporating frontier propulsion (IPLS-NWM-v1) and explicit planning for future technology supersession.</p>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Design Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
@@ -43,8 +43,8 @@ include 'header.php';
                     <h4 class="font-semibold mb-4">Functional Requirements — Generation Ship Nacelle Warp (IPLS-NWM-GS-v1)</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
                         <li><strong>Configuration</strong>: 4× cylindrical nacelles in equatorial ring layout on the primary structural torus, hot-swappable via PIS-v1 hardpoints.</li>
-                        <li><strong>Performance</strong>: Initial cruise velocity target 0.1–0.2 c (scalable with future PGEDS upgrades). Interior-flat bubble enforces &lt;10⁻⁶ g tidal forces.</li>
-                        <li><strong>Power</strong>: PGEDS-v1 micro-modular fusion / antimatter arrays delivering 10 PW burst per nacelle with triple-redundant failover.</li>
+                        <li><strong>Performance</strong>: Whether 0.1 to 0.2 c is a minimum, a band, or a design target is unset. The interior tidal limit is unset.</li>
+                        <li><strong>Power</strong>: Power per nacelle is unset. The port rating is unset.</li>
                         <li><strong>Safety</strong>: Pinhole probe verification mandatory. Independent fail-operational shutdown per nacelle. Ethical kill-switch and sentience monitoring active at all times.</li>
                         <li><strong>Modularity</strong>: Designed for in-flight rendezvous and nacelle retrofit under TSP-v1 protocol.</li>
                     </ul>
@@ -58,7 +58,7 @@ include 'header.php';
                         <li>Continuous frontier-monitoring link (Network Standards 3.1.19) to detect ≥2× performance or safety improvements.</li>
                         <li>Pre-engineered rendezvous hardpoints and docking facilities (3.1.7) sized for colony-seeding ships or upgrade tugs.</li>
                         <li>Modular structural interfaces allowing nacelle or entire drive-section replacement without compromising habitat integrity.</li>
-                        <li>Legacy-support mode: full self-sustaining capability retained indefinitely even if upgrade is declined. Crew / governance consent required for any modification (Governance Frameworks 3.1.11 &amp; 5.1).</li>
+                        <li>Supersession waits for operator consent under IPLS-5.1-002. The weight of crew dissent is unset.</li>
                         <li>Psychological and digital-life support provisions for crews choosing to remain in legacy vessels (3.1.9 &amp; 3.1.22).</li>
                     </ul>
                 </div>
