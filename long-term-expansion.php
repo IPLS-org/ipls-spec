@@ -16,7 +16,7 @@ include 'header.php';
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Long-Term Interstellar Expansion &amp; Network Growth</h1>
                 <p class="text-3xl text-white/80 mb-4">Seeding daughter colonies and weaving a single, operator-controlled interstellar civilisation</p>
-                <p class="text-xl text-white/70">The first stable portal link (IPLS-FPL-v1) is now the permanent backbone — eliminating isolation stressors, enabling instantaneous governance, trade, and reinforcement while preserving full local command authority.</p>
+                <p class="text-xl text-white/70">The requirement cards on this page govern. A new colony is not a second command chart. Oversight is at light delay. FPL-v1 is an upgrade path.</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
         </div>
@@ -31,7 +31,7 @@ include 'header.php';
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Expansion Principles</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
-                    <li>Every new colony shall maintain continuous, bidirectional PIS-v1 portal connectivity with the existing network from the moment the first stable link is established (Arrival Protocols 4.2).</li>
+                    <li>On arrival the ship joins the 3.1.19 network. FPL-v1 is an upgrade path. Oversight is at light delay.</li>
                     <li>Network growth shall follow the same universal modular platform (3.2) and chronological sequence used in Sol, ensuring zero vendor lock-in and full operator ownership.</li>
                     <li>Technology Supersession Protocol (TSP-v1) shall be applied to all legacy assets arriving via generation ships or early seeding missions.</li>
                 </ul>
@@ -40,7 +40,7 @@ include 'header.php';
                 <div class="bg-white/5 border border-white/10 rounded-3xl p-8 mb-12">
                     <h4 class="font-semibold mb-4">Functional Requirements — Ongoing Portal Network Operations (IPLS-FPL-NET-v1)</h4>
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
-                        <li>Minimum one primary PIS-v1 portal link per colony, expandable to redundant mesh topology as population and traffic grow.</li>
+                        <li>FPL-v1 is an upgrade path. The population and traffic at which a link becomes a mesh are unset.</li>
                         <li>High-bandwidth quantum-secure comms + limited matter transfer for personnel, critical spares, and cultural exchange (Communication Systems 3.1.12).</li>
                         <li>Real-time integration with Governance Frameworks (3.1.11 &amp; 5.1), Psychological &amp; Social Systems (3.1.9), and Digital-Life Habitats (3.1.22) to eliminate isolation stressors permanently.</li>
                         <li>Fail-operational with triple-redundant nacelle and PGEDS-v1 power systems; automated pinhole-probe monitoring.</li>
