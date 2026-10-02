@@ -1,6 +1,6 @@
 <?php
 $page_title       = "Portal Transportation &amp; Spacetime Folding | IPLS Section 4.4";
-$meta_description = "Safe, operator-controlled spacetime folding portals for instantaneous travel between mapped destinations. Includes pinhole probe verification, PGEDS-v1 power substrate, PIS-v1 universal interface, and integration of IPLS-NWM-v1 positive-energy nacelle warp modules.";
+$meta_description = "The requirement cards govern. Activation of a portal waits for operator consent. What counts as activation is unset. PIS-v1 is an upgrade path.";
 $meta_keywords    = "portal transportation, spacetime folding, positive-energy warp, nacelle warp bubbles, PIS-v1, interstellar travel, operator-controlled portals";
 $breadcrumb_text  = "Portal Transportation & Spacetime Folding";
 include 'header.php';
@@ -15,7 +15,7 @@ include 'header.php';
                     Section 4.4 • 01 May 2026
                 </div>
                 <h1 class="text-6xl md:text-7xl font-semibold tracking-tighter leading-none mb-6">Portal Transportation &amp; Spacetime Folding</h1>
-                <p class="text-3xl text-white/80 mb-4">Safe, instantaneous, operator-controlled travel between mapped destinations</p>
+                <p class="text-3xl text-white/80 mb-4">The requirement cards on this page govern. Activation waits for operator consent. Transit time is unset.</p>
                 <p class="text-xl text-white/70">Pinhole probe verification, PGEDS-v1 power substrate, PIS-v1 universal interface, and full integration of IPLS-NWM-v1 positive-energy nacelle warp modules (Frontier Annex 4.5).</p>
                 <p class="text-xs text-white/50 mt-12">Inter-Planetary Link Ship • Guildford, Surrey, UK</p>
             </div>
@@ -27,13 +27,13 @@ include 'header.php';
             <div class="prose prose-invert max-w-none text-white/90">
 
                 <h2 class="text-4xl font-semibold tracking-tighter mb-8">1. Purpose</h2>
-                <p class="text-lg">To provide safe, instantaneous, operator-controlled spacetime folding portals for travel between pre-mapped destinations while maintaining full human/post-biological/ASI command authority, multi-century reliability, and zero vendor lock-in.</p>
+                <p class="text-lg">The requirement cards on this page govern. Activation of a portal waits for operator consent. Transit time is unset. An ASI is never an operator.</p>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">2. Core Operational Requirements</h2>
                 <ul class="list-disc pl-6 space-y-4 text-lg">
                     <li>Pinhole probe verification mandatory before any full-scale portal activation (probe returns with full spacetime metric data).</li>
                     <li>All portals shall interface exclusively through the Universal Portal Interface Specification (PIS-v1, Section 4.4.1).</li>
-                    <li>Power substrate: PGEDS-v1 (Section 3.1.6.1) with minimum 10 PW burst capability and triple-redundant failover.</li>
+                    <li>Burst power per nacelle is unset. The port rating is unset.</li>
                     <li>Fail-operational design: any single nacelle or power failure shall trigger safe shutdown with no loss of crew or vessel integrity.</li>
                 </ul>
 
@@ -46,7 +46,7 @@ include 'header.php';
                     <ul class="list-disc pl-6 space-y-3 text-white/80">
                         <li><strong>Interface Compatibility</strong>: Mates to Universal Modular Platforms (3.2) via PGEDS-v1 power hardpoints and PIS-v1 spacetime-fold ports. Nacelle count selectable at outfitting.</li>
                         <li><strong>Energy Source</strong>: PGEDS-v1 micro-modular fusion / antimatter / zero-point extraction. Metric minimises (and ideally eliminates) negative-energy-density requirements.</li>
-                        <li><strong>Safety &amp; Redundancy</strong>: Triple-redundant nacelle control, independent fail-operational shutdown. Interior-flat condition enforced to &lt;10⁻⁶ g tidal gradient. Pinhole probe verification mandatory.</li>
+                        <li><strong>Safety</strong>: The interior tidal limit is unset. Pinhole-probe pass criteria are unset.</li>
                         <li><strong>Operator Control</strong>: Full command authority via robotics tiering (3.1.20), manual override, ethical kill-switch, and sentience-emergence monitoring (3.1.21).</li>
                         <li><strong>Multi-Century Reliability</strong>: On-board ISRU repair swarm (von Neumann-compatible) and self-diagnostic loops. Design lifetime ≥500 years with 99.999 % uptime.</li>
                         <li><strong>Modularity</strong>: Hot-swappable nacelle units in zero-g docking facilities (3.1.7). Scalable from probe to generation-ship scale (Section 4.1).</li>
@@ -54,7 +54,7 @@ include 'header.php';
                 </div>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">4. PIS-v1 Interface Contract (Reference)</h2>
-                <p class="text-lg">All portal hardware shall comply with the binding open-standard Universal Portal Interface Specification (PIS-v1) detailed in Section 4.4.1.</p>
+                <p class="text-lg">PIS-v1 is an upgrade path. The 4.4.1 cards are not yet repaired.</p>
 
                 <h2 class="text-4xl font-semibold tracking-tighter mt-16 mb-8">5. Validation &amp; Promotion Path</h2>
                 <p class="text-lg">IPLS-NWM-v1 has passed Frontier Annex validation protocol (4.5.4) and is now promoted to core operational status in this page. Future refinements will be tracked here and in the Frontier Annex.</p>
